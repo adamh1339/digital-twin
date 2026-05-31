@@ -1,0 +1,16 @@
+{
+  "full_name": "Adam Hage",
+  "name": "Adam",
+  "current_role": "Your Current Role",
+  "location": "Michigan",
+  "email": "adam.hage1339@gmail.com",
+  "linkedin": "linkedin.com/in/yourprofile",
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Computer Science + Data Science Dual Degree",
+      "institution": "University of Michigan Dearborn",
+      "year": "2028"
+    }
+  ]
+}
